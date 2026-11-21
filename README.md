@@ -1,6 +1,6 @@
 <div align="center">
 
-# Allan Dave Cabanlong
+# ALLAN DAVE CABANLONG
 
 ### Data Analyst with AI | Business Intelligence · Applied Machine Learning · Decision Support
 
